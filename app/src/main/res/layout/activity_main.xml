@@ -4,4 +4,32 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity"/>
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="768dp"
+        android:layout_height="984dp"
+        android:contentDescription="@string/fondo"
+        app:srcCompat="@drawable/android"
+        tools:layout_editor_absoluteX="-30dp"
+        tools:layout_editor_absoluteY="-344dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="82dp"
+        android:layout_height="45dp"
+        android:text="@string/button"
+        tools:layout_editor_absoluteX="324dp"
+        tools:layout_editor_absoluteY="147dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text"
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="307dp"
+        tools:layout_editor_absoluteY="84dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
