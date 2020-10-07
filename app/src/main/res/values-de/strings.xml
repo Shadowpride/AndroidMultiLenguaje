@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Multi Sprache</string>
+    <string name="button">Eingeben</string>
+    <string name="text">Willkommen</string>
+    <string name="fondo">Hintergrund</string>
+</resources>
