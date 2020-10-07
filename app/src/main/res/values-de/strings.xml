@@ -4,4 +4,5 @@
     <string name="button">Eingeben</string>
     <string name="text">Willkommen</string>
     <string name="fondo">Hintergrund</string>
+    <string name="back">back</string>
 </resources>

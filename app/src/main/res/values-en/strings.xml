@@ -5,4 +5,5 @@
     <string name="button">Enter</string>
     <string name="text">Welcome</string>
     <string name="fondo">Background</string>
+    <string name="back">back</string>
 </resources>
